@@ -7,7 +7,7 @@ import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
 // link1: https://docs.alchemy.com/docs/how-to-create-an-erc-20-token-4-steps
 // link2: https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/ERC20.sol
 
-contract newMojToken is ERC20 {
+contract mojToken is ERC20 {
 
     address public owner;
 
